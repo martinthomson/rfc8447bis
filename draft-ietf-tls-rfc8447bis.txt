@@ -6,8 +6,8 @@ Transport Layer Security                                      J. Salowey
 Internet-Draft                                                    Venafi
 Updates: 3749, 5077, 4680, 5246, 5705, 5878,                   S. Turner
          6520, 7301, 8447 (if approved)                            sn3rd
-Intended status: Standards Track                         2 February 2023
-Expires: 6 August 2023
+Intended status: Standards Track                           27 March 2023
+Expires: 28 September 2023
 
 
                  IANA Registry Updates for TLS and DTLS
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 August 2023.
+   This Internet-Draft will expire on 28 September 2023.
 
 Copyright Notice
 
@@ -141,7 +141,7 @@ Table of Contents
 
    Setting a value to "Y" or "D" in the "Recommended" column requires
    IETF Standards Action [RFC8126].  Any state transition to or from a
-   "Y" or "D" value requires IESG Apporval.  Not all items defined in
+   "Y" or "D" value requires IESG Approval.  Not all items defined in
    Standards Track RFCs need to be set to "Y" or "D".  Any item not
    otherwise specified is set to "N".  The column is blank for values
    that are unassigned or reserved unless specifically set.
@@ -171,7 +171,7 @@ Table of Contents
     255 (decimal) are reserved for Private Use [RFC8126].  Setting a
     "Recommended" column value to Y or D requires Standards Action {{RFC8126}}.
     Any state transition to or from a "Y" or "D" value requires
-    IESG Apporval.
+    IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -210,7 +210,7 @@ Table of Contents
        first byte 255 (decimal) are reserved for Private Use [RFC8126].
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -330,7 +330,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -353,7 +353,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -389,7 +389,7 @@ Table of Contents
       reserved for Private Use [RFC8126]. Setting a "Recommended" column
       value to Y or D requires Standards
       Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-      value requires IESG Apporval.
+      value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -409,7 +409,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -451,7 +451,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -493,7 +493,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -541,7 +541,7 @@ Table of Contents
 
        Setting a "Recommended" column value to Y or D requires Standards
        Action {{RFC8126}}. Any state transition to or from a "Y" or "D"
-       value requires IESG Apporval.
+       value requires IESG Approval.
 
    *  Add a reference to this document under the reference heading.
 
@@ -580,10 +580,10 @@ Table of Contents
 
    [I-D.ietf-tls-deprecate-obsolete-kex]
               Bartle, C. and N. Aviram, "Deprecating Obsolete Key
-              Exchange Methods in TLS", Work in Progress, Internet-
-              Draft, draft-ietf-tls-deprecate-obsolete-kex-01, 11
-              December 2022, <https://datatracker.ietf.org/doc/html/
-              draft-ietf-tls-deprecate-obsolete-kex-01>.
+              Exchange Methods in TLS 1.2", Work in Progress, Internet-
+              Draft, draft-ietf-tls-deprecate-obsolete-kex-02, 25 March
+              2023, <https://datatracker.ietf.org/doc/html/draft-ietf-
+              tls-deprecate-obsolete-kex-02>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
